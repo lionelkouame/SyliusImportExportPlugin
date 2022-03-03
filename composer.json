@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsylius/sylius-import-export-plugin",
+    "name": "lionelkouame/sylius-import-export-plugin",
     "type": "sylius-plugin",
     "description": "import / export plugin for Sylius.",
     "license": "MIT",
